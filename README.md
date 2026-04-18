@@ -52,6 +52,7 @@ PARTITION BY
 DISTINCT
 ALTER TABLE
 UPDATE
+
 📊 Key Analysis Questions Solved
 1. Total seats available in each state
 2. Total seats won by NDA alliance
@@ -73,6 +74,7 @@ State-wise results vary significantly.
 EVM votes dominate over postal votes.
 Some constituencies had close victory margins.
 Maharashtra had multi-party competition.
+
 🚀 How to Run
 Import CSV files into SQL Server
 Run schema.sql
