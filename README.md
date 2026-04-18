@@ -1,4 +1,5 @@
 India General Election Result Analysis 2024 (SQL Project)
+
 📌 Project Overview
 This SQL project analyzes the India General Election 2024 dataset using SQL Server.
 
